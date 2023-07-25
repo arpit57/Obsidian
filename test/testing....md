@@ -1,0 +1,1 @@
+_trying [[obsidian]] for first time_

@@ -1,0 +1,99 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Tensorflow",
+      "path": "Python/Tensorflow.md"
+    },
+    {
+      "basename": "sklearn",
+      "path": "Python/sklearn.md"
+    },
+    {
+      "basename": "OOPS",
+      "path": "Python/OOPS.md"
+    },
+    {
+      "basename": "My FAQs",
+      "path": "My FAQs.md"
+    },
+    {
+      "basename": "Performance Metrics",
+      "path": "Machine learning/Performance Metrics.md"
+    },
+    {
+      "basename": "Weight Initialization",
+      "path": "Deep learning/Weight Initialization.md"
+    },
+    {
+      "basename": "Activation Functions",
+      "path": "Deep learning/Activation Functions.md"
+    },
+    {
+      "basename": "Loss functions",
+      "path": "Deep learning/Loss functions.md"
+    },
+    {
+      "basename": "Basics of neural networks",
+      "path": "Deep learning/Basics of neural networks.md"
+    },
+    {
+      "basename": "Softmax vs Argmax",
+      "path": "Deep learning/Softmax vs Argmax.md"
+    },
+    {
+      "basename": "Todo list",
+      "path": "Todo list.md"
+    },
+    {
+      "basename": "Topicwise Progress",
+      "path": "Topicwise Progress.md"
+    },
+    {
+      "basename": "Regularization",
+      "path": "Machine learning/Regularization.md"
+    },
+    {
+      "basename": "Bias, Variance, Over and Underfitting",
+      "path": "Machine learning/Bias, Variance, Over and Underfitting.md"
+    },
+    {
+      "basename": "Interview Questions",
+      "path": "Python/Interview Questions.md"
+    },
+    {
+      "basename": "Cross Entropy",
+      "path": "Deep learning/Cross Entropy.md"
+    },
+    {
+      "basename": "Linear Regression",
+      "path": "Machine learning/Algorithms/Linear Regression.md"
+    },
+    {
+      "basename": "Interview Questions",
+      "path": "SQL/Interview Questions.md"
+    },
+    {
+      "basename": "LSTM",
+      "path": "Deep learning/LSTM.md"
+    },
+    {
+      "basename": "NLP with Spacy",
+      "path": "NLP/NLP with Spacy.md"
+    },
+    {
+      "basename": "Statistics",
+      "path": "Maths/Statistics.md"
+    },
+    {
+      "basename": "Gradient Descent",
+      "path": "Machine learning/Algorithms/Gradient Descent.md"
+    },
+    {
+      "basename": "Linear Algebra",
+      "path": "Maths/Linear Algebra.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
