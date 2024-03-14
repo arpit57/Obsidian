@@ -30,6 +30,12 @@
 28.  How do you manage and maintain multiple versions of Python on the same machine?
 29.  Explain the difference between a shallow and a deep copy in Python.
 30.  What are some common ways to optimize Python code for performance?
+31. what are type hints?
+32. what are annotations?
+
+## Data Structures
+
+![[1_ADbePjuNR5OqGDzzgOj63Q.jpg]]
 
 ## Lists and tuples
 
@@ -354,3 +360,26 @@ fruits = ["apple", "banana", "cherry"]
 for index, fruit in enumerate(fruits):
     print(index, fruit)
 ```
+
+## type hints
+
+Type hints allow developers to specify the expected type of variables, function parameters, and return values. They are used by static type checkers like `mypy`, IDEs, and linters to find type errors in code before it runs.
+
+```python
+
+def greet(name: str) -> str:     
+	return f'Hello, {name}'
+```
+
+In this function, `name: str` is a type hint indicating that `name` should be a string, and `-> str` indicates that the function returns a string.
+
+## Annotations
+
+Annotations are a more general form of type hints, allowing for any expression to be associated with function parameters and return values. While type hints are a subset of annotations specifically for type information, annotations can be used for other purposes as well.
+
+```python
+def multiply(a: int, b: int) -> int:    
+	return a * b
+```
+
+Here, `a: int` and `b: int` are annotations indicating that both `a` and `b` should be integers.

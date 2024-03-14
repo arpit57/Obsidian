@@ -1,3 +1,80 @@
+## Example
+
+```python
+class Student:
+    # Class-level attributes for tracking total students, marks, and IQ
+    total_students = 0
+    total_marks = 0
+    total_iq = 0
+    
+    # Constructor method
+    def __init__(self, marks, iq, age):
+        # Instance-level attributes for age, marks, and IQ
+        self.age = age
+        self.marks = marks
+        self.iq = iq
+        # Updating class-level attributes
+        Student.total_students += 1
+        Student.total_marks += marks
+        Student.total_iq += iq
+        
+    # Instance method to determine eligibility
+    def eligible(self):
+        if self.age > 15 and self.marks > 60 and self.iq > 100:
+            return "eligible for placements"
+        else:
+            return "not eligible for placements"
+    
+    # Instance method to update marks
+    def update_marks(self, new_marks):
+        # Adjust the total marks at the class level
+        Student.total_marks -= self.marks
+        self.marks = new_marks
+        Student.total_marks += new_marks
+    
+    # Instance method to update IQ
+    def update_iq(self, new_iq):
+        # Adjust the total IQ at the class level
+        Student.total_iq -= self.iq
+        self.iq = new_iq
+        Student.total_iq += new_iq
+    
+    # Class method to compute the average marks
+    @classmethod
+    def average_marks(cls):
+        return cls.total_marks / cls.total_students if cls.total_students else 0
+    
+    # Class method to compute the average IQ
+    @classmethod
+    def average_iq(cls):
+        return cls.total_iq / cls.total_students if cls.total_students else 0
+    
+    # Class method to create a Student object based on class averages
+    @classmethod
+    def create_from_average(cls, age):
+        avg_marks = cls.average_marks()
+        avg_iq = cls.average_iq()
+        return cls(avg_marks, avg_iq, age)
+    
+    # Special method for string representation of the object
+    def __str__(self):
+        return f"Student(age={self.age}, marks={self.marks}, iq={self.iq})"
+```
+
+
+# Create instances of Student class
+Arpit = Student(70, 102, 21)
+Raj = Student(65, 110, 22)
+
+# Print eligibility of Arpit
+print(Arpit.eligible())  # Output: eligible for placements
+
+# Create a student using class averages
+new_student = Student.create_from_average(20)
+# Print the created student's details
+print(new_student)  # Output: Student(age=20, marks=67.5, iq=106.0)
+
+
 ## Basics
 
 ->Methtod vs Function:

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5d2f6502c4d7d09d",
+        "id": "b0f2127d6f4b2316",
         "type": "tabs",
         "children": [
           {
-            "id": "6585261a8f62ea4c",
+            "id": "20446f00e134b65e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tensorflow.md",
+                "file": "Python/Interview Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "277d3a8caec38f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tensorflow.md",
+                "file": "Maths/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tensorflow.md",
+                "file": "Maths/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tensorflow.md"
+                "file": "Maths/Linear Algebra.md"
+              }
+            }
+          },
+          {
+            "id": "63e0d5918567907a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -172,35 +197,44 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6585261a8f62ea4c",
+  "active": "277d3a8caec38f08",
   "lastOpenFiles": [
-    "Python/sklearn.md",
-    "Python/Tensorflow.md",
-    "Python/OOPS.md",
-    "My FAQs.md",
+    "Python/Interview Questions.md",
     "Machine learning/Performance Metrics.md",
-    "Attachments/Slide2.png",
-    "Deep learning/Weight Initialization.md",
-    "Deep learning/Activation Functions.md",
-    "Computer vision/Image Processing.md",
-    "Deep learning/Loss functions.md",
-    "Deep learning/Basics of neural networks.md",
-    "Deep learning/Softmax vs Argmax.md",
-    "Todo list.md",
-    "Topicwise Progress.md",
+    "Machine learning/Algorithms/PCA.md",
+    "Machine learning/Algorithms/Decision Trees.md",
     "Machine learning/Regularization.md",
     "Machine learning/Bias, Variance, Over and Underfitting.md",
-    "Attachments/Slide1.png",
-    "Attachments/Slide6.png",
-    "Python/Interview Questions.md",
-    "Deep learning/Cross Entropy.md",
-    "Attachments/Screenshot 2023-07-17 144516.png",
-    "Deep learning/Weight initialization/Untitled.md",
+    "Development/API.md",
+    "Development.md",
+    "Development",
+    "My FAQs.md",
+    "Python/OOPS.md",
+    "Machine learning/Loss functions.md",
+    "Maths/Hypothesis testing.md",
+    "Maths/Linear Algebra.md",
+    "Machine learning/Preprocessing.md",
+    "Machine learning/Algorithms/K means.md",
+    "Maths/Statistics.md",
+    "Maths/Probability.md",
+    "Attachments/Pasted image 20230816145025.png",
+    "mgf.png.md",
+    "Attachments/Pasted image 20230816144635.png",
+    "Attachments/Pasted image 20230816144533.png",
+    "Machine learning/Time Series.md",
+    "Attachments/Pasted image 20230813200210.png",
     "Machine learning/Algorithms/Linear Regression.md",
-    "Deep learning/Weight initialization",
-    "SQL/Interview Questions.md",
-    "NLP/NLP with Spacy.md",
-    "Image Thresholding.md",
-    "Maths/Statistics.md"
+    "Deep learning/Cross Entropy.md",
+    "Machine learning/Algorithms/Gradient Descent.md",
+    "Attachments/Slide6.png",
+    "Attachments/Slide1.png",
+    "Attachments/Slide2.png",
+    "Attachments/1_ADbePjuNR5OqGDzzgOj63Q.jpg",
+    "Python/sklearn.md",
+    "Python/Tensorflow.md",
+    "Deep learning/Activation Functions.md",
+    "Deep learning/Basics of neural networks.md",
+    "Attachments/Screenshot 2023-07-17 144516.png",
+    "Deep learning/Weight initialization"
   ]
 }
