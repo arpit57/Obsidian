@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deployment/Git.md",
+                "file": "deployment/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deployment/Git.md",
+                "file": "deployment/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deployment/Git.md"
+                "file": "deployment/Docker.md"
               }
             }
           }
@@ -195,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2ef18573c3512d0",
+  "active": "d4631e079f23d7f5",
   "lastOpenFiles": [
-    "deployment/Docker.md",
     "deployment/Git.md",
+    "deployment/Docker.md",
     "CS concepts/Kernel vs daemon.md",
     "CS concepts",
     "Pasted image 20240311234321.png",
