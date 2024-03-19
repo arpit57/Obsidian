@@ -2,6 +2,8 @@
 
 K-means clustering is an unsupervised ML algorithm that can partition unlabeled data into K clusters.
 
+![[Pasted image 20240319174917.png]]
+
 1. **Initialization**: K initial cluster centers (not data points) are chosen randomly from the data or by using methods like K-means++. The remaining data points are not labeled at this point.
     
 2. **Assignment**: Each data point is assigned to the cluster whose center is nearest to it, thus forming K clusters.
@@ -11,6 +13,10 @@ K-means clustering is an unsupervised ML algorithm that can partition unlabeled 
 4. **Repeat**: Steps 2 and 3 are repeated until no noticeable changes are observed in the cluster assignments or the centroids.
     
 5. **Determination of K**: The value of K can be determined using methods like the Elbow Method, where the Sum of Squared Residuals (SSR) is plotted on the y-axis and K on the x-axis. The "elbow" of the plot is the point where the SSR value does not drop significantly, indicating a suitable value for K.
+
+![[Pasted image 20240319174925.png]]
+
+
 ### Pros:
 
 1. **Simplicity**: It's easy to implement and understand.
