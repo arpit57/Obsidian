@@ -11,8 +11,13 @@
             "id": "a85912cec6b4e160",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine learning/Algorithms/K means.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine learning/Algorithms/K means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine learning/Algorithms/K means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine learning/Algorithms/K means.md"
+              }
             }
           },
           {
@@ -162,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,16 +181,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a85912cec6b4e160",
   "lastOpenFiles": [
+    "Machine learning/Algorithms/Gradient Descent.md",
+    "Machine learning/Algorithms/PCA.md",
+    "Machine learning/Algorithms/Decision Trees.md",
+    "Attachments/Pasted image 20240319173420.png",
+    "Attachments/Pasted image 20240319170234.png",
+    "Attachments/Pasted image 20240319170041.png",
+    "Attachments/Pasted image 20240319165944.png",
+    "Deep learning/Activation Functions.md",
+    "Machine learning/Loss functions.md",
+    "Machine learning/Algorithms/Linear Regression.md",
+    "Machine learning/Preprocessing.md",
+    "mgf.png.md",
+    "Todo list.md",
+    "Topicwise Progress.md",
     "Python/Interview Questions.md",
     "Maths/Linear Algebra.md",
     "Machine learning/Performance Metrics.md",
-    "Machine learning/Algorithms/PCA.md",
-    "Machine learning/Algorithms/Decision Trees.md",
     "Machine learning/Regularization.md",
     "Machine learning/Bias, Variance, Over and Underfitting.md",
     "Development/API.md",
@@ -189,30 +211,18 @@
     "Development",
     "My FAQs.md",
     "Python/OOPS.md",
-    "Machine learning/Loss functions.md",
     "Maths/Hypothesis testing.md",
-    "Machine learning/Preprocessing.md",
     "Machine learning/Algorithms/K means.md",
     "Maths/Statistics.md",
     "Maths/Probability.md",
     "Attachments/Pasted image 20230816145025.png",
-    "mgf.png.md",
     "Attachments/Pasted image 20230816144635.png",
     "Attachments/Pasted image 20230816144533.png",
     "Machine learning/Time Series.md",
     "Attachments/Pasted image 20230813200210.png",
-    "Machine learning/Algorithms/Linear Regression.md",
     "Deep learning/Cross Entropy.md",
-    "Machine learning/Algorithms/Gradient Descent.md",
     "Attachments/Slide6.png",
     "Attachments/Slide1.png",
-    "Attachments/Slide2.png",
-    "Attachments/1_ADbePjuNR5OqGDzzgOj63Q.jpg",
-    "Python/sklearn.md",
-    "Python/Tensorflow.md",
-    "Deep learning/Activation Functions.md",
-    "Deep learning/Basics of neural networks.md",
-    "Attachments/Screenshot 2023-07-17 144516.png",
     "Deep learning/Weight initialization"
   ]
 }

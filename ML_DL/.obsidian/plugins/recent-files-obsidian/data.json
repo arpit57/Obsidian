@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "K means",
+      "path": "Machine learning/Algorithms/K means.md"
+    },
+    {
+      "basename": "Gradient Descent",
+      "path": "Machine learning/Algorithms/Gradient Descent.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "Machine learning/Algorithms/PCA.md"
+    },
+    {
+      "basename": "Decision Trees",
+      "path": "Machine learning/Algorithms/Decision Trees.md"
+    },
+    {
+      "basename": "Activation Functions",
+      "path": "Deep learning/Activation Functions.md"
+    },
+    {
+      "basename": "Loss functions",
+      "path": "Machine learning/Loss functions.md"
+    },
+    {
+      "basename": "Linear Regression",
+      "path": "Machine learning/Algorithms/Linear Regression.md"
+    },
+    {
+      "basename": "Preprocessing",
+      "path": "Machine learning/Preprocessing.md"
+    },
+    {
       "basename": "Linear Algebra",
       "path": "Maths/Linear Algebra.md"
     },
@@ -11,14 +43,6 @@
     {
       "basename": "Performance Metrics",
       "path": "Machine learning/Performance Metrics.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "Machine learning/Algorithms/PCA.md"
-    },
-    {
-      "basename": "Decision Trees",
-      "path": "Machine learning/Algorithms/Decision Trees.md"
     },
     {
       "basename": "Regularization",
@@ -37,28 +61,12 @@
       "path": "SQL/Interview Questions.md"
     },
     {
-      "basename": "My FAQs",
-      "path": "My FAQs.md"
-    },
-    {
       "basename": "OOPS",
       "path": "Python/OOPS.md"
     },
     {
-      "basename": "Loss functions",
-      "path": "Machine learning/Loss functions.md"
-    },
-    {
       "basename": "Hypothesis testing",
       "path": "Maths/Hypothesis testing.md"
-    },
-    {
-      "basename": "Preprocessing",
-      "path": "Machine learning/Preprocessing.md"
-    },
-    {
-      "basename": "K means",
-      "path": "Machine learning/Algorithms/K means.md"
     },
     {
       "basename": "Statistics",
@@ -69,24 +77,12 @@
       "path": "Maths/Probability.md"
     },
     {
-      "basename": "mgf.png",
-      "path": "mgf.png.md"
-    },
-    {
       "basename": "Time Series",
       "path": "Machine learning/Time Series.md"
     },
     {
-      "basename": "Linear Regression",
-      "path": "Machine learning/Algorithms/Linear Regression.md"
-    },
-    {
       "basename": "Cross Entropy",
       "path": "Deep learning/Cross Entropy.md"
-    },
-    {
-      "basename": "Gradient Descent",
-      "path": "Machine learning/Algorithms/Gradient Descent.md"
     },
     {
       "basename": "Slide6",
@@ -113,10 +109,6 @@
       "path": "Python/Tensorflow.md"
     },
     {
-      "basename": "Activation Functions",
-      "path": "Deep learning/Activation Functions.md"
-    },
-    {
       "basename": "Basics of neural networks",
       "path": "Deep learning/Basics of neural networks.md"
     },
@@ -127,14 +119,6 @@
     {
       "basename": "Weight Initialization",
       "path": "Deep learning/Weight Initialization.md"
-    },
-    {
-      "basename": "Todo list",
-      "path": "Todo list.md"
-    },
-    {
-      "basename": "Topicwise Progress",
-      "path": "Topicwise Progress.md"
     },
     {
       "basename": "LSTM",
