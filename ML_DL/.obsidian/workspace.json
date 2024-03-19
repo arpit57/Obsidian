@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b0f2127d6f4b2316",
+        "id": "c3a83c7b2edbd81b",
         "type": "tabs",
         "children": [
           {
-            "id": "20446f00e134b65e",
+            "id": "a85912cec6b4e160",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Interview Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "277d3a8caec38f08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Linear Algebra.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Linear Algebra.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,13 +172,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "random-note:Open random note": false
     }
   },
-  "active": "277d3a8caec38f08",
+  "active": "a85912cec6b4e160",
   "lastOpenFiles": [
     "Python/Interview Questions.md",
+    "Maths/Linear Algebra.md",
     "Machine learning/Performance Metrics.md",
     "Machine learning/Algorithms/PCA.md",
     "Machine learning/Algorithms/Decision Trees.md",
@@ -212,7 +191,6 @@
     "Python/OOPS.md",
     "Machine learning/Loss functions.md",
     "Maths/Hypothesis testing.md",
-    "Maths/Linear Algebra.md",
     "Machine learning/Preprocessing.md",
     "Machine learning/Algorithms/K means.md",
     "Maths/Statistics.md",

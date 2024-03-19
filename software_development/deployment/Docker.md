@@ -60,3 +60,58 @@ Let’s summarise the comparison between virtualization and containerization on 
 |Persistent storage|Use a Virtual Hard Disk (VHD) for local storage for a single VM or a Server Message Block (SMB) file share for storage shared by multiple servers|Use local disks for local storage for a single node or SMB for storage shared by multiple nodes or servers|
 |Load balancing|Virtual machine load balancing is done by running VMs in other servers in a failover cluster|An orchestrator can automatically start or stop containers on cluster nodes to manage changes in load and availability.|
 |Networking|Uses virtual network adapters|Uses an isolated view of a virtual network adapter. Thus, provides a little less virtualization|
+![[Pasted image 20240319153302.png]]
+traditional deployment
+
+![[Pasted image 20240319153321.png]]
+virtualized deployment
+
+![[Pasted image 20240319153341.png]]
+container deployment
+
+
+## Docker commands 
+
+- **Docker version**: Displays the currently installed Docker version information.
+- **Docker search**: Searches for images in the Docker Hub registry.
+- **Docker pull**: Downloads an image from a registry (like Docker Hub) to your local machine.
+- **Docker run**: Creates and starts a container from a specified image.
+- **Docker ps**: Lists the currently running containers.
+- **Docker stop**: Stops a running container.
+- **Docker restart**: Restarts a stopped or running container.
+- **Docker kill**: Forcibly stops a running container.
+- **Docker exec**: Executes a command inside a running container.
+- **Docker login**: Logs in to a Docker registry (like Docker Hub).
+- **Docker commit**: Creates a new image from changes made to a container.
+- **Docker push**: Uploads a local image to a remote registry.
+- **Docker network**: Manages Docker networks, allowing containers to communicate with each other.
+- **Docker history**: Shows the history of an image, including the layers and commands used to build it.
+- **Docker rmi**: Removes one or more images from your local machine.
+- **Docker ps -a**: Lists all containers, both running and stopped.
+- **Docker copy (docker cp)**: Copies files or directories between a container and the local filesystem.
+- **Docker logs**: Fetches the logs of a container.
+- **Docker volume**: Manages Docker volumes, allowing containers to store and access persistent data.
+- **Docker logout**: Logs out from a Docker registry.
+
+## Docker compose
+
+Docker Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services, networks, and volumes. Then, with a single command, you create and start all the services from your configuration.
+
+### Why?
+
+- **Simplification**: It simplifies the process of managing and deploying multi-container applications.
+- **Configuration as code**: Allows you to define your Docker environment in a code-like format, making it easy to understand, version control, and share.
+
+### How?
+
+- **Define services**: You list out the services your application needs in a `docker-compose.yml` file, specifying the images, ports, volumes, and other configurations.
+- **Networking**: Docker Compose sets up a single network for your app by default, allowing containers to communicate with each other.
+- **Volumes**: You can specify shared or persistent storage volumes to be used by the containers.
+
+### When?
+
+- Use Docker Compose when you have an application that requires multiple Docker containers to work together, such as a web application with a separate database and caching service.
+
+### Where?
+
+- Docker Compose can be used in development, testing, and production environments. It is particularly useful in development workflows where you can define and start an application’s entire environment with one command.
