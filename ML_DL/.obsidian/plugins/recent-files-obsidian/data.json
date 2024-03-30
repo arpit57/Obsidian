@@ -1,40 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "K means",
-      "path": "Machine learning/Algorithms/K means.md"
-    },
-    {
-      "basename": "Gradient Descent",
-      "path": "Machine learning/Algorithms/Gradient Descent.md"
+      "basename": "Decision Trees",
+      "path": "Machine learning/Algorithms/Decision Trees.md"
     },
     {
       "basename": "PCA",
       "path": "Machine learning/Algorithms/PCA.md"
     },
     {
-      "basename": "Decision Trees",
-      "path": "Machine learning/Algorithms/Decision Trees.md"
+      "basename": "Linear Regression",
+      "path": "Machine learning/Algorithms/Linear Regression.md"
+    },
+    {
+      "basename": "K means",
+      "path": "Machine learning/Algorithms/K means.md"
+    },
+    {
+      "basename": "Basics of neural networks",
+      "path": "Deep learning/Basics of neural networks.md"
     },
     {
       "basename": "Activation Functions",
       "path": "Deep learning/Activation Functions.md"
     },
     {
+      "basename": "Linear Algebra",
+      "path": "Maths/Linear Algebra.md"
+    },
+    {
+      "basename": "Gradient Descent",
+      "path": "Machine learning/Algorithms/Gradient Descent.md"
+    },
+    {
       "basename": "Loss functions",
       "path": "Machine learning/Loss functions.md"
     },
     {
-      "basename": "Linear Regression",
-      "path": "Machine learning/Algorithms/Linear Regression.md"
-    },
-    {
       "basename": "Preprocessing",
       "path": "Machine learning/Preprocessing.md"
-    },
-    {
-      "basename": "Linear Algebra",
-      "path": "Maths/Linear Algebra.md"
     },
     {
       "basename": "Interview Questions",
@@ -51,10 +55,6 @@
     {
       "basename": "Bias, Variance, Over and Underfitting",
       "path": "Machine learning/Bias, Variance, Over and Underfitting.md"
-    },
-    {
-      "basename": "API",
-      "path": "Development/API.md"
     },
     {
       "basename": "Interview Questions",
@@ -107,10 +107,6 @@
     {
       "basename": "Tensorflow",
       "path": "Python/Tensorflow.md"
-    },
-    {
-      "basename": "Basics of neural networks",
-      "path": "Deep learning/Basics of neural networks.md"
     },
     {
       "basename": "Softmax vs Argmax",
