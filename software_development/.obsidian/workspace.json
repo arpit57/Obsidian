@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "30ddf95243c86175",
+        "id": "b77c7d46122d21a7",
         "type": "tabs",
         "children": [
           {
-            "id": "98ba87c1803ad01e",
+            "id": "6192a994b1de4807",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Time and Space complexity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/Time and Space complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/Time and Space complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/Time and Space complexity.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,27 +145,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98ba87c1803ad01e",
+  "active": "f718606b3fc3abdd",
   "lastOpenFiles": [
+    "deployment/Git.md",
+    "DSA/Time and Space complexity.md",
+    "DSA",
+    "deployment/Kubernetes.md",
     "Pasted image 20240319153341.png",
-    "CS concepts/Kernel vs daemon.md",
     "Pasted image 20240319153321.png",
     "Pasted image 20240319153302.png",
     "Pasted image 20240319153220.png",
     "Pasted image 20240319153138.png",
     "Pasted image 20240319153059.png",
     "Pasted image 20240319153049.png",
+    "deployment/Docker.md",
+    "CS concepts/Kernel vs daemon.md",
+    "CS concepts",
     "Pasted image 20240311234321.png",
     "Pasted image 20240311234213.png",
-    "Pasted image 20240304063111.png",
-    "backend/Roadmap.md",
-    "deployment/Docker.md",
-    "deployment/Kubernetes.md",
-    "deployment/Git.md",
-    "Networking/DNS.md",
-    "CS concepts",
     "Networking/SSL and HTTPS.md",
+    "Networking/DNS.md",
+    "backend/Roadmap.md",
     "Networking",
+    "Pasted image 20240304063111.png",
     "deployment",
     "frontend",
     "backend",
