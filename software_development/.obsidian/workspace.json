@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b77c7d46122d21a7",
+        "id": "f951a73dfbb85014",
         "type": "tabs",
         "children": [
           {
-            "id": "6192a994b1de4807",
+            "id": "e63077367dbb588b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Time and Space complexity.md",
+                "file": "backend/Terminal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Time and Space complexity.md",
+                "file": "backend/Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Time and Space complexity.md",
+                "file": "backend/Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Time and Space complexity.md"
+                "file": "backend/Terminal.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f718606b3fc3abdd",
+  "active": "e63077367dbb588b",
   "lastOpenFiles": [
-    "deployment/Git.md",
     "DSA/Time and Space complexity.md",
+    "backend/Terminal.md",
+    "Terminal/Untitled.md",
+    "Terminal",
+    "deployment/Git.md",
     "DSA",
     "deployment/Kubernetes.md",
     "Pasted image 20240319153341.png",
