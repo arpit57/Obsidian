@@ -32,6 +32,7 @@
 30.  What are some common ways to optimize Python code for performance?
 31. what are type hints?
 32. what are annotations?
+33. string formatting
 
 ## Data Structures
 
@@ -66,9 +67,11 @@ pythonCopy code
 
 For example, to create a lambda function that adds two numbers, you would do:
 
-sqlCopy code
 
-`add = lambda x, y: x + y result = add(5, 3)`
+``` python
+add = lambda x, y: x + y 
+result = add(5, 3)
+````
 
 In this example, `result` would be `8`.
 
@@ -168,6 +171,35 @@ for number in counter:
 
 In this example, the "count_up_to" function is a generator that yields numbers from 1 up to the specified maximum value.
 
+In one Simpsons episode, Homer crashes his car into a deer statue, followed by three
+lines of dialogue. 
+
+```python
+def doh():
+	return ["Homer: D'oh!", "Marge: A deer!", "Lisa: A female deer!"]
+for line in doh():
+	print(line)
+```
+
+Homer: D'oh!
+Marge: A deer!
+Lisa: A female deer!
+
+This works perfectly when lists are relatively small. But what if we’re grabbing all the
+dialogue from all the Simpsons episodes? Lists use memory.
+```python
+def doh2():
+	yield "Homer: D'oh!"
+	yield "Marge: A deer!"
+	yield "Lisa: A female deer!"
+
+for line in doh2():
+	print(line)
+```
+
+Homer: D'oh!
+Marge: A deer!
+Lisa: A female deer!
 ## Context Manager
 
 ## args vs kwargs
@@ -233,10 +265,40 @@ increment_counter()
 print(counter)  # Output: 1
 ```
 
-## Modules and Packages
+## Modules, Packages, Library and Framework
 
--   Modules: A module is a single Python file containing functions, classes, and variables that can be imported and used in other Python files or scripts. To create a module, simply write a Python file (e.g., `mymodule.py`). To import and use a module, use the `import` statement, like `import mymodule`.
--   Packages: A package is a collection of related modules organized in a directory hierarchy. To create a package, create a directory with an `__init__.py` file (which can be empty) and place your module files inside the directory. To import a module from a package, use the dot notation, like `import mypackage.mymodule`.
+1. Module:
+    - A module is a single Python file that contains Python definitions, statements, and instructions.
+    - It is used to organize related code into a single unit and can be imported into other Python scripts or modules.
+    - Modules help in breaking down large programs into smaller, more manageable files.
+    - Examples of built-in Python modules include `math`, `random`, `os`, and `datetime`.
+2. Package:
+    - A package is a collection of Python modules organized in a directory hierarchy.
+    - It is a way to structure and organize related modules into a single unit.
+    - A package typically contains an `__init__.py` file in each directory, which makes Python treat the directory as a package.
+    - Packages provide a way to avoid naming conflicts between modules and allow for better organization of code.
+    - Examples of popular Python packages include `numpy`, `pandas`, `requests`, and `matplotlib`.
+3. Library:
+    - A library is a collection of packages and modules that provide a set of related functionality.
+    - It is a reusable piece of code that can be imported and used in different projects.
+    - Libraries are typically designed to solve specific problems or provide tools for a particular domain.
+    - They encapsulate complex functionality and provide a high-level interface for developers to use.
+    - Examples of Python libraries include `NumPy` (numerical computing), `Pandas` (data manipulation and analysis), and `Matplotlib` (data visualization).
+4. Framework:
+    - A framework is a more comprehensive and opinionated collection of libraries, tools, and conventions.
+    - It provides a structured approach and a set of rules for building applications in a specific domain.
+    - Frameworks often dictate the architecture, design patterns, and best practices to follow when building applications.
+    - They provide a foundation and a set of abstractions that developers can build upon, saving time and effort.
+    - Examples of Python frameworks include Django (web development), Flask (web development), and PyTorch (machine learning).
+
+In summary:
+
+- A module is a single Python file containing related code.
+- A package is a collection of related modules organized in a directory hierarchy.
+- A library is a collection of packages and modules that provide a set of related functionality.
+- A framework is a comprehensive and opinionated collection of libraries, tools, and conventions for building applications in a specific domain.
+
+These terms are often used interchangeably, but they represent different levels of abstraction and organization in Python code. Modules and packages are the building blocks, while libraries and frameworks provide higher-level functionality and structure for building applications.
 
 ## 'with' statement
 
@@ -383,3 +445,28 @@ def multiply(a: int, b: int) -> int:
 ```
 
 Here, `a: int` and `b: int` are annotations indicating that both `a` and `b` should be integers.
+
+## String Formatting
+
+```python
+prompt = "You are a content creator. Write a technical blog about {topic}."
+
+topic = "vector databases"
+
+prompt.format(topic=topic)
+```
+
+Output: 'You are a content creator. Write a technical blog about vector databases.'
+
+```python
+prompt = f"You are a content creator. Write a technical blog about {topic}."
+
+topic = "vector databases"
+
+prompt
+```
+
+Output: 'You are a content creator. Write a technical blog about vector databases.'
+
+## Async/Await
+

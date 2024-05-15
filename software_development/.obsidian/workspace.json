@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Terminal.md",
+                "file": "backend/Middleware and WebSockets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e64a2a95295358a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0691fe7343df3eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "database/Client.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19e4141d90993a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Middleware and WebSockets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "625c563240de735e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fastAPI/Path function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3671a839bbc640fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fastAPI/Features.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/Terminal.md",
+                "file": "fastAPI/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/Terminal.md",
+                "file": "fastAPI/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/Terminal.md"
+                "file": "fastAPI/Features.md"
               }
             }
           }
@@ -146,13 +207,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e63077367dbb588b",
+  "active": "3671a839bbc640fa",
   "lastOpenFiles": [
+    "Linux/Commands.md",
+    "backend/Middleware and WebSockets.md",
+    "Linux/Terminal.md",
+    "database/Client.md",
+    "fastAPI/Path function.md",
+    "fastAPI/Features.md",
+    "fastAPI",
+    "Linux",
+    "Linux.md",
+    "database",
+    "CS concepts/Kernel vs daemon.md",
+    "CS concepts/Concepts in Concurrent and Parallel Programming.md",
+    "deployment/Git.md",
     "DSA/Time and Space complexity.md",
-    "backend/Terminal.md",
     "Terminal/Untitled.md",
     "Terminal",
-    "deployment/Git.md",
     "DSA",
     "deployment/Kubernetes.md",
     "Pasted image 20240319153341.png",
@@ -163,7 +235,6 @@
     "Pasted image 20240319153059.png",
     "Pasted image 20240319153049.png",
     "deployment/Docker.md",
-    "CS concepts/Kernel vs daemon.md",
     "CS concepts",
     "Pasted image 20240311234321.png",
     "Pasted image 20240311234213.png",

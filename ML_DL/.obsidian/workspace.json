@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine learning/Algorithms/Decision Trees.md",
+                "file": "Python/Interview Questions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine learning/Algorithms/Decision Trees.md",
+                "file": "Python/Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine learning/Algorithms/Decision Trees.md",
+                "file": "Python/Interview Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine learning/Algorithms/Decision Trees.md"
+                "file": "Python/Interview Questions.md"
               }
             }
           },
@@ -187,43 +187,45 @@
   },
   "active": "a85912cec6b4e160",
   "lastOpenFiles": [
+    "Deep learning/CNN.md",
+    "SQL/Interview Questions.md",
+    "Python/Interview Questions.md",
+    "Python/OOPS.md",
+    "Python/sklearn.md",
+    "Python/Tensorflow.md",
     "Machine learning/Algorithms/PCA.md",
-    "Machine learning/Algorithms/Linear Regression.md",
-    "Machine learning/Algorithms/K means.md",
-    "Deep learning/Basics of neural networks.md",
+    "Deep learning/ANN.md",
     "Deep learning/Activation Functions.md",
-    "Maths/Linear Algebra.md",
-    "Development/API.md",
+    "Deep learning/Softmax vs Argmax.md",
+    "Deep learning/Cross Entropy.md",
+    "Deep learning/RNN.md",
+    "Machine learning/Regularization.md",
+    "Machine learning/Performance Metrics.md",
+    "Machine learning/Preprocessing.md",
+    "Machine learning/Quick notes.md",
+    "Generative AI/Transformers.md",
+    "Generative AI",
+    "Medium/First blog.md",
+    "Medium",
+    "Deep learning/Weight Initialization.md",
+    "Python/snippets.md",
+    "Machine learning/Algorithms/K means.md",
+    "Machine learning/Loss functions.md",
+    "Machine learning/Time Series.md",
+    "Machine learning/Algorithms/Decision Trees.md",
+    "Machine learning/Bias, Variance, Over and Underfitting.md",
+    "Machine learning/Algorithms/Linear Regression.md",
     "Attachments/Pasted image 20240319174925.png",
     "Attachments/Pasted image 20240319174917.png",
     "Attachments/Pasted image 20240319174823.png",
-    "Machine learning/Algorithms/Gradient Descent.md",
-    "Machine learning/Algorithms/Decision Trees.md",
     "Attachments/Pasted image 20240319173420.png",
     "Attachments/Pasted image 20240319170234.png",
     "Attachments/Pasted image 20240319170041.png",
     "Attachments/Pasted image 20240319165944.png",
-    "Machine learning/Loss functions.md",
-    "Machine learning/Preprocessing.md",
-    "mgf.png.md",
-    "Todo list.md",
-    "Topicwise Progress.md",
-    "Python/Interview Questions.md",
-    "Machine learning/Performance Metrics.md",
-    "Machine learning/Regularization.md",
-    "Machine learning/Bias, Variance, Over and Underfitting.md",
-    "Development.md",
     "Development",
-    "My FAQs.md",
-    "Python/OOPS.md",
-    "Maths/Hypothesis testing.md",
-    "Maths/Statistics.md",
-    "Maths/Probability.md",
     "Attachments/Pasted image 20230816145025.png",
     "Attachments/Pasted image 20230816144635.png",
     "Attachments/Pasted image 20230816144533.png",
-    "Machine learning/Time Series.md",
-    "Deep learning/Cross Entropy.md",
     "Deep learning/Weight initialization"
   ]
 }

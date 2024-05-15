@@ -1,60 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Decision Trees",
-      "path": "Machine learning/Algorithms/Decision Trees.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "Machine learning/Algorithms/PCA.md"
-    },
-    {
-      "basename": "Linear Regression",
-      "path": "Machine learning/Algorithms/Linear Regression.md"
-    },
-    {
-      "basename": "K means",
-      "path": "Machine learning/Algorithms/K means.md"
-    },
-    {
-      "basename": "Basics of neural networks",
-      "path": "Deep learning/Basics of neural networks.md"
-    },
-    {
-      "basename": "Activation Functions",
-      "path": "Deep learning/Activation Functions.md"
-    },
-    {
-      "basename": "Linear Algebra",
-      "path": "Maths/Linear Algebra.md"
-    },
-    {
-      "basename": "Gradient Descent",
-      "path": "Machine learning/Algorithms/Gradient Descent.md"
-    },
-    {
-      "basename": "Loss functions",
-      "path": "Machine learning/Loss functions.md"
-    },
-    {
-      "basename": "Preprocessing",
-      "path": "Machine learning/Preprocessing.md"
-    },
-    {
       "basename": "Interview Questions",
       "path": "Python/Interview Questions.md"
     },
     {
-      "basename": "Performance Metrics",
-      "path": "Machine learning/Performance Metrics.md"
-    },
-    {
-      "basename": "Regularization",
-      "path": "Machine learning/Regularization.md"
-    },
-    {
-      "basename": "Bias, Variance, Over and Underfitting",
-      "path": "Machine learning/Bias, Variance, Over and Underfitting.md"
+      "basename": "CNN",
+      "path": "Deep learning/CNN.md"
     },
     {
       "basename": "Interview Questions",
@@ -63,6 +15,106 @@
     {
       "basename": "OOPS",
       "path": "Python/OOPS.md"
+    },
+    {
+      "basename": "sklearn",
+      "path": "Python/sklearn.md"
+    },
+    {
+      "basename": "Tensorflow",
+      "path": "Python/Tensorflow.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "Machine learning/Algorithms/PCA.md"
+    },
+    {
+      "basename": "ANN",
+      "path": "Deep learning/ANN.md"
+    },
+    {
+      "basename": "Activation Functions",
+      "path": "Deep learning/Activation Functions.md"
+    },
+    {
+      "basename": "Softmax vs Argmax",
+      "path": "Deep learning/Softmax vs Argmax.md"
+    },
+    {
+      "basename": "Cross Entropy",
+      "path": "Deep learning/Cross Entropy.md"
+    },
+    {
+      "basename": "RNN",
+      "path": "Deep learning/RNN.md"
+    },
+    {
+      "basename": "Regularization",
+      "path": "Machine learning/Regularization.md"
+    },
+    {
+      "basename": "Performance Metrics",
+      "path": "Machine learning/Performance Metrics.md"
+    },
+    {
+      "basename": "Preprocessing",
+      "path": "Machine learning/Preprocessing.md"
+    },
+    {
+      "basename": "Quick notes",
+      "path": "Machine learning/Quick notes.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "Generative AI/Transformers.md"
+    },
+    {
+      "basename": "First blog",
+      "path": "Medium/First blog.md"
+    },
+    {
+      "basename": "Weight Initialization",
+      "path": "Deep learning/Weight Initialization.md"
+    },
+    {
+      "basename": "snippets",
+      "path": "Python/snippets.md"
+    },
+    {
+      "basename": "K means",
+      "path": "Machine learning/Algorithms/K means.md"
+    },
+    {
+      "basename": "Loss functions",
+      "path": "Machine learning/Loss functions.md"
+    },
+    {
+      "basename": "Time Series",
+      "path": "Machine learning/Time Series.md"
+    },
+    {
+      "basename": "Decision Trees",
+      "path": "Machine learning/Algorithms/Decision Trees.md"
+    },
+    {
+      "basename": "Bias, Variance, Over and Underfitting",
+      "path": "Machine learning/Bias, Variance, Over and Underfitting.md"
+    },
+    {
+      "basename": "Linear Regression",
+      "path": "Machine learning/Algorithms/Linear Regression.md"
+    },
+    {
+      "basename": "Basics of neural networks",
+      "path": "Deep learning/Basics of neural networks.md"
+    },
+    {
+      "basename": "Linear Algebra",
+      "path": "Maths/Linear Algebra.md"
+    },
+    {
+      "basename": "Gradient Descent",
+      "path": "Machine learning/Algorithms/Gradient Descent.md"
     },
     {
       "basename": "Hypothesis testing",
@@ -75,14 +127,6 @@
     {
       "basename": "Probability",
       "path": "Maths/Probability.md"
-    },
-    {
-      "basename": "Time Series",
-      "path": "Machine learning/Time Series.md"
-    },
-    {
-      "basename": "Cross Entropy",
-      "path": "Deep learning/Cross Entropy.md"
     },
     {
       "basename": "Slide6",
@@ -99,22 +143,6 @@
     {
       "basename": "1_ADbePjuNR5OqGDzzgOj63Q",
       "path": "Attachments/1_ADbePjuNR5OqGDzzgOj63Q.jpg"
-    },
-    {
-      "basename": "sklearn",
-      "path": "Python/sklearn.md"
-    },
-    {
-      "basename": "Tensorflow",
-      "path": "Python/Tensorflow.md"
-    },
-    {
-      "basename": "Softmax vs Argmax",
-      "path": "Deep learning/Softmax vs Argmax.md"
-    },
-    {
-      "basename": "Weight Initialization",
-      "path": "Deep learning/Weight Initialization.md"
     },
     {
       "basename": "LSTM",
