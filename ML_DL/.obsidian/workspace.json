@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Interview Questions.md",
+                "file": "Maths/Linear Algebra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Interview Questions.md",
+                "file": "Maths/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Interview Questions.md",
+                "file": "Maths/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Interview Questions.md"
+                "file": "Maths/Linear Algebra.md"
               }
             }
           },
@@ -187,21 +187,24 @@
   },
   "active": "a85912cec6b4e160",
   "lastOpenFiles": [
+    "Machine learning/Bias, Variance, Over and Underfitting.md",
+    "Machine learning/Regularization.md",
+    "Machine learning/Performance Metrics.md",
+    "Machine learning/Preprocessing.md",
+    "Machine learning/Loss functions.md",
+    "Machine learning/Algorithms/PCA.md",
+    "Machine learning/Algorithms/K means.md",
+    "Python/Interview Questions.md",
     "Deep learning/CNN.md",
     "SQL/Interview Questions.md",
-    "Python/Interview Questions.md",
     "Python/OOPS.md",
     "Python/sklearn.md",
     "Python/Tensorflow.md",
-    "Machine learning/Algorithms/PCA.md",
     "Deep learning/ANN.md",
     "Deep learning/Activation Functions.md",
     "Deep learning/Softmax vs Argmax.md",
     "Deep learning/Cross Entropy.md",
     "Deep learning/RNN.md",
-    "Machine learning/Regularization.md",
-    "Machine learning/Performance Metrics.md",
-    "Machine learning/Preprocessing.md",
     "Machine learning/Quick notes.md",
     "Generative AI/Transformers.md",
     "Generative AI",
@@ -209,11 +212,8 @@
     "Medium",
     "Deep learning/Weight Initialization.md",
     "Python/snippets.md",
-    "Machine learning/Algorithms/K means.md",
-    "Machine learning/Loss functions.md",
     "Machine learning/Time Series.md",
     "Machine learning/Algorithms/Decision Trees.md",
-    "Machine learning/Bias, Variance, Over and Underfitting.md",
     "Machine learning/Algorithms/Linear Regression.md",
     "Attachments/Pasted image 20240319174925.png",
     "Attachments/Pasted image 20240319174917.png",

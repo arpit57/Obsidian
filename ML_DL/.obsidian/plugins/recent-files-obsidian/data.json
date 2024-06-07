@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Linear Algebra",
+      "path": "Maths/Linear Algebra.md"
+    },
+    {
+      "basename": "Bias, Variance, Over and Underfitting",
+      "path": "Machine learning/Bias, Variance, Over and Underfitting.md"
+    },
+    {
+      "basename": "Regularization",
+      "path": "Machine learning/Regularization.md"
+    },
+    {
+      "basename": "Performance Metrics",
+      "path": "Machine learning/Performance Metrics.md"
+    },
+    {
+      "basename": "Preprocessing",
+      "path": "Machine learning/Preprocessing.md"
+    },
+    {
+      "basename": "Loss functions",
+      "path": "Machine learning/Loss functions.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "Machine learning/Algorithms/PCA.md"
+    },
+    {
+      "basename": "K means",
+      "path": "Machine learning/Algorithms/K means.md"
+    },
+    {
       "basename": "Interview Questions",
       "path": "Python/Interview Questions.md"
     },
@@ -25,10 +57,6 @@
       "path": "Python/Tensorflow.md"
     },
     {
-      "basename": "PCA",
-      "path": "Machine learning/Algorithms/PCA.md"
-    },
-    {
       "basename": "ANN",
       "path": "Deep learning/ANN.md"
     },
@@ -47,18 +75,6 @@
     {
       "basename": "RNN",
       "path": "Deep learning/RNN.md"
-    },
-    {
-      "basename": "Regularization",
-      "path": "Machine learning/Regularization.md"
-    },
-    {
-      "basename": "Performance Metrics",
-      "path": "Machine learning/Performance Metrics.md"
-    },
-    {
-      "basename": "Preprocessing",
-      "path": "Machine learning/Preprocessing.md"
     },
     {
       "basename": "Quick notes",
@@ -81,14 +97,6 @@
       "path": "Python/snippets.md"
     },
     {
-      "basename": "K means",
-      "path": "Machine learning/Algorithms/K means.md"
-    },
-    {
-      "basename": "Loss functions",
-      "path": "Machine learning/Loss functions.md"
-    },
-    {
       "basename": "Time Series",
       "path": "Machine learning/Time Series.md"
     },
@@ -97,20 +105,12 @@
       "path": "Machine learning/Algorithms/Decision Trees.md"
     },
     {
-      "basename": "Bias, Variance, Over and Underfitting",
-      "path": "Machine learning/Bias, Variance, Over and Underfitting.md"
-    },
-    {
       "basename": "Linear Regression",
       "path": "Machine learning/Algorithms/Linear Regression.md"
     },
     {
       "basename": "Basics of neural networks",
       "path": "Deep learning/Basics of neural networks.md"
-    },
-    {
-      "basename": "Linear Algebra",
-      "path": "Maths/Linear Algebra.md"
     },
     {
       "basename": "Gradient Descent",
